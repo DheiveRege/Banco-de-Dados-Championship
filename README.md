@@ -1,4 +1,4 @@
-# Pessoas do grupo:Ângelo, bruno
+# Pessoas do grupo:
 * Ângelo
 * bruno carvalho
 * bruno souza
